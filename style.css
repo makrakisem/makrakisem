@@ -1,0 +1,21 @@
+h1{
+
+    background-color:black;
+    font-size: 133px;
+    text-align: center;
+    color:white;
+    border-radius:15px;
+    border:13px solid brown;
+}
+p{ background-color:black;
+   color:white;
+   font-size:white;
+   border-radius:15px;
+   border:13px solid brown;
+
+
+}
+img{
+    border-radius:15px;
+    border:13px solid brown;
+}
