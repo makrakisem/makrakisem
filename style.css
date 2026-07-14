@@ -6,16 +6,19 @@ h1{
     color:white;
     border-radius:15px;
     border:13px solid brown;
+     
 }
 p{ background-color:black;
    color:white;
    font-size:white;
    border-radius:15px;
    border:13px solid brown;
+  font-size:30px;
 
 
 }
 img{
     border-radius:15px;
     border:13px solid brown;
+    font-size:30px;
 }
